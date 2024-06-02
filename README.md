@@ -10,7 +10,7 @@ The page includes:
 
 ## Technologies:
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?logo=Python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/DJANGO-%23092E20?logo=django)
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
