@@ -69,7 +69,7 @@ export default {
                     <span>${{ el.price }}</span>
                     <button @click="deleteFromBasket(el.slug)">Delete</button>
                 </div>
-                <span>Total: ${{ getSum }}</span>
+                <span class="total">Total: ${{ getSum }}</span>
 
             </div>
             <div v-else>
@@ -92,6 +92,18 @@ export default {
 
 
 <style scoped>
+.basket {
+    margin-top: 40px;
+}
+
+.total {
+    font-weight: bold;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
 .data {
     display: flex;
     justify-content: space-around;

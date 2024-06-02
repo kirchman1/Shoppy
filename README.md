@@ -1,29 +1,47 @@
-# .
+# Project: Online Store - Shoppy
 
-This template should help get you started developing with Vue 3 in Vite.
+A classic example of an online store, with the ability to create an order. 
+
+The page includes: 
+- ability to add items to the cart and remove them;
+- several static pages (homepage, about us, delivery);
+- ability to edit products (price, description, etc.);
+- ability to create an order and pay for it using the Fondy service.
+
+## Technologies:
+![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vue.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PYTHON-%233776AB?logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/DJANGO-%23092E20?logo=django)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite)
+
+![](./public/img/screen1.png)
+
+![](./public/img/screen2.png)
+
+![](./public/img/screen3.png)
+
+![](./public/img/screen4.png)
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Project launch:
+* Clone the project to your computer from Github using the command:
+```
+git clone https://github.com/https://github.com/kirchman1/Diploma-cut.it.git
+```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+* Install dependencies using the command:
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+* Launch the project using the command:
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+npm run dev
+python manage.py runserver
 ```

@@ -18,7 +18,7 @@ export default {
 <template>
 
     <header>
-        <img src="/img/logo.svg" alt="">
+        <RouterLink to="/"><img src="/img/logo.svg" alt=""></RouterLink>
         <ul>
             <li><RouterLink to="/" active-class="active">Main</RouterLink></li>
             <li><RouterLink to="/items" active-class="active">Items</RouterLink></li>

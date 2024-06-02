@@ -7,7 +7,7 @@
             <h2>online</h2>
             <h3>now</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <button>Start buying</button>
+            <button><RouterLink to="/items">Start buying</RouterLink></button>
         </div>
     </div>
 </template>
