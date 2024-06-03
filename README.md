@@ -3,10 +3,10 @@
 A classic example of an online store, with the ability to create an order. 
 
 The page includes: 
-- ability to add items to the cart and remove them;
+- the ability to add items to the cart and remove them;
 - several static pages (homepage, about us, delivery);
-- ability to edit products (price, description, etc.);
-- ability to create an order and pay for it using the Fondy service.
+- the ability to edit products (price, description, etc.);
+- the ability to create order and pay for it using the Fondy service.
 
 ## Technologies:
 ![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=vue.js&logoColor=white)
@@ -28,6 +28,7 @@ The page includes:
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
 
 ## Project launch:
 * Clone the project to your computer from Github using the command:
