@@ -17,13 +17,13 @@ The page includes:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite)
 
-![](./public/img/screen1.png)
+![](./public/public/img/screen1.png)
 
-![](./public/img/screen2.png)
+![](./public/public/img/screen2.png)
 
-![](./public/img/screen3.png)
+![](./public/public/img/screen3.png)
 
-![](./public/img/screen4.png)
+![](./public/public/img/screen4.png)
 
 ## Recommended IDE Setup
 
